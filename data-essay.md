@@ -34,6 +34,8 @@
 Выбранные для изучения данные к тайнам не относятся
 
 <h2>Лицензия:</h2>
+
+Лицензия: Creative Commons Attribution
 Автор эссе – София Кондратьева. E-mail: sonf0613@gmail.com, https://www.facebook.com/profile.php?id=100013579423549
 
 Автор набора данных АНО «Центр Трансперенси Интернешенл—Р». E-mail:  info@transparency.org.ru. Тел. +7 (495) 915-00-19
